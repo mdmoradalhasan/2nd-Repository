@@ -1,2 +1,0 @@
-The previous app.text file was replaced when I created another text file with the same name.
-Line 1
